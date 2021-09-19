@@ -1,7 +1,7 @@
 # DataMadnessKickstarter
 An analysis on the success of Kickstarter Projects (UM Project)
 
-This was a short project which is summarized in the following video.
+This was a short project which is summarized in the following video. The dataset can be obtained from https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.csv
 
 https://vimeo.com/401928960 
 

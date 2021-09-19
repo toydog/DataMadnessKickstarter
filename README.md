@@ -1,6 +1,8 @@
 # DataMadnessKickstarter
 An analysis on the success of Kickstarter Projects (UM Project)
 
+This was a short project which is summarized in the following video.
+
 https://vimeo.com/401928960 
 
 Brian Huynen, I6097103 - Tim Smeets, I6071641
